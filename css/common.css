@@ -834,13 +834,13 @@
 }
 .mouth3 {
     position: absolute;
-    width: 2rem;
-    height: 3rem;
+    width: 1rem;
+    height: 2rem;
     border: solid .1rem #d3a39b;
     border-color: #d3a39b transparent transparent transparent;
-    border-radius: 100%/100px 100px 0 0;
-    top: 4.2rem;
-    left: 1rem;
+    border-radius: 100%/100% 100% 0 0;
+    top: 5.2rem;
+    left: 1.52rem;
     transform: rotate(170deg);
 }
 .bodies3 {
@@ -1159,13 +1159,13 @@
 }
 .mouth4 {
     position: absolute;
-    width: 2rem;
-    height: 3rem;
+    width: 1rem;
+    height: 2rem;
     border: solid .1rem #d3a39b;
     border-color: #d3a39b transparent transparent transparent;
-    border-radius: 100%/100px 100px 0 0;
-    top: 4.2rem;
-    left: 1rem;
+    border-radius: 100%/100% 100% 0 0;
+    top: 5.2rem;
+    left: 1.52rem;
     transform: rotate(170deg);
 }
 .bodies4 {
